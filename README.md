@@ -7,9 +7,10 @@
 
 Paragraph Text Here
 
-```
+```python
 print "This is a file made for markdown reference"
 if a>b:
   print a
 else:
   print b
+```
