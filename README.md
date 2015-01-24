@@ -23,4 +23,4 @@ This is my favourite emoji :+1:
 
 - [x] Thing 1
 - [ ] Thing 2
-- [x] Thing 3
+- [x] Thing 3 
